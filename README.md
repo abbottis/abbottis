@@ -2,7 +2,7 @@
 
 **Practitioner, not an evangelist.**
 
-I fell into digital marketing back in 2012 (e-commerce, performance, SEO). Today, at [klartxt](https://klartxt.de/agentur/team/) near Hanover, Germany, my work revolves around **prompt & context engineering, AI agents, and automating real agency workflows**.
+I fell into digital marketing back in 2012 (e-commerce, performance, SEO). Today, at [klartxt](https://klartxt.de/) in Hanover, Germany, my work revolves around **prompt & context engineering, AI agents, and automating real agency workflows**.
 
 ### What I'm Building & Testing on My Own
 
