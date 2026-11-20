@@ -1,11 +1,15 @@
 # Tobias Glawe
 
-I trained as a communications designer and have worked in digital marketing since 2012. I'm based near Hanover, Germany. At [klartxt](https://klartxt.de/agentur/team/), I work on paid search, landing pages and AI workflows for marketing teams.
+**Practitioner, not an evangelist.**
 
-## Projects
+I fell into digital marketing back in 2012 (e-commerce, performance, SEO). Today, at [klartxt](https://klartxt.de/agentur/team/) near Hanover, Germany, my work revolves around **prompt & context engineering, AI agents, and automating real agency workflows**.
 
-- **[LogWerk](https://github.com/abbottis/logwerk)** — a browser-based tool for inspecting web server logs. Open a log file and explore it locally, without uploading it.
-- **[LogCarve](https://github.com/abbottis/logcarve)** — self-hosted access log analytics for Nginx and Apache. It helps you investigate crawler activity, errors and performance using a dashboard or a read-only API. There's an optional AI assistant that works from the same data.
-- **[t01.li](https://t01.li/)** — my German-language blog on AI agents, automation and search. I write about tools I've tried and what happens when I put them to work.
+### What I'm Building & Testing
 
-Alongside my work in tech and marketing, I'm a portrait photographer.
+- **[LogWerk](https://github.com/abbottis/logwerk)** — Client-side web server log inspection. Drop in a log file and explore it right in your browser. Zero uploads, zero cloud bloat, complete privacy.
+- **[LogCarve](https://github.com/abbottis/logcarve)** — Self-hosted access log analytics for Nginx and Apache. Built to investigate AI crawlers, errors, and real performance via dashboard or read-only API—with an optional AI assistant strictly grounded in your own log data.
+- **[t01.li](https://t01.li/)** — My German field notes on AI agents, automation, and search. Not a news aggregator or tutorial graveyard, just a working journal covering what actually holds up in production, failed approaches, and weird limits.
+
+---
+
+Want to compare notes, share feedback, or just say hello? Reach out via [LinkedIn](https://www.linkedin.com/in/tglawe/) or [email](mailto:tglawe@tobiasglawe.eu).
